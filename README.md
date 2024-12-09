@@ -1,6 +1,8 @@
-![UV Environment Manager](uv_header.webp)
-
-# UV Environment Manager
+<div align="center">
+  <img src="uv_header.webp" alt="UV Environment Manager">
+  
+  # UV Environment Manager
+</div>
 
 `uv` is a lightweight and efficient tool for managing Python virtual environments and dependencies. It simplifies managing isolated environments for different projects, ensuring reproducibility and minimal interference between dependencies.
 
